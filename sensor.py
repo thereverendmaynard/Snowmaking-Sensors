@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+# Should work with python2.5 
+# I grabbed portions of the code from Adafruit. Check out her tweet-a-watt for more info
 import serial, time, datetime, sys
 from xbee import xbee
 import twitter
